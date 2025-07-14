@@ -1,5 +1,5 @@
-# business_solution
-This repository includes business solution using machine/deep learning algorithm 
+# pneumonia_detection_algorithm
+This provides a business solution for pneumonia detection using machine/deep learning algorithm 
 
 The source data is a kaggle dataset. Link for the dataset is:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
